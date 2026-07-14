@@ -1,0 +1,54 @@
+[
+  {
+    "attendanceId": 1,
+    "employeeId": 3,
+    "attendanceDate": "2026-07-08",
+    "checkInTime": "2026-07-08T09:00:00Z",
+    "checkOutTime": "2026-07-08T18:00:00Z",
+    "breakStartTime": "2026-07-08T13:00:00Z",
+    "breakEndTime": "2026-07-08T14:00:00Z",
+    "workingHours": 8.0,
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "status": "Present"
+  },
+  {
+    "attendanceId": 2,
+    "employeeId": 3,
+    "attendanceDate": "2026-07-09",
+    "checkInTime": "2026-07-09T09:45:00Z",
+    "checkOutTime": "2026-07-09T18:15:00Z",
+    "breakStartTime": "2026-07-09T13:00:00Z",
+    "breakEndTime": "2026-07-09T13:45:00Z",
+    "workingHours": 7.75,
+    "latitude": 18.5205,
+    "longitude": 73.8568,
+    "status": "Late"
+  },
+  {
+    "attendanceId": 3,
+    "employeeId": 4,
+    "attendanceDate": "2026-07-09",
+    "checkInTime": "2026-07-09T09:00:00Z",
+    "checkOutTime": "2026-07-09T17:00:00Z",
+    "breakStartTime": "2026-07-09T13:00:00Z",
+    "breakEndTime": "2026-07-09T14:00:00Z",
+    "workingHours": 7.0,
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "status": "Present"
+  },
+  {
+    "attendanceId": 4,
+    "employeeId": 5,
+    "attendanceDate": "2026-07-09",
+    "checkInTime": "2026-07-09T09:10:00Z",
+    "checkOutTime": "2026-07-09T13:30:00Z",
+    "breakStartTime": null,
+    "breakEndTime": null,
+    "workingHours": 4.33,
+    "latitude": 18.9750,
+    "longitude": 72.8258,
+    "status": "Half Day"
+  }
+]

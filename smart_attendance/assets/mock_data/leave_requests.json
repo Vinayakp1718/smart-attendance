@@ -1,0 +1,32 @@
+[
+  {
+    "leaveId": 1,
+    "employeeId": 3,
+    "leaveType": "Sick Leave",
+    "fromDate": "2026-07-01",
+    "toDate": "2026-07-02",
+    "reason": "Severe fever and flu doctor advised rest.",
+    "status": "Approved",
+    "appliedDate": "2026-06-30T10:00:00Z"
+  },
+  {
+    "leaveId": 2,
+    "employeeId": 4,
+    "leaveType": "Casual Leave",
+    "fromDate": "2026-07-15",
+    "toDate": "2026-07-16",
+    "reason": "Family gathering in hometown.",
+    "status": "Pending",
+    "appliedDate": "2026-07-08T14:30:00Z"
+  },
+  {
+    "leaveId": 3,
+    "employeeId": 5,
+    "leaveType": "Paid Leave",
+    "fromDate": "2026-07-20",
+    "toDate": "2026-07-24",
+    "reason": "Annual summer vacation.",
+    "status": "Pending",
+    "appliedDate": "2026-07-09T11:15:00Z"
+  }
+]

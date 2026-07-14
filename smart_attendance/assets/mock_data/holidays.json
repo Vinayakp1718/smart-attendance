@@ -1,0 +1,32 @@
+[
+  {
+    "holidayId": 1,
+    "holidayName": "Republic Day",
+    "holidayDate": "2026-01-26",
+    "description": "Celebration of the Constitution of India."
+  },
+  {
+    "holidayId": 2,
+    "holidayName": "Independence Day",
+    "holidayDate": "2026-08-15",
+    "description": "Commemoration of India's independence from UK."
+  },
+  {
+    "holidayId": 3,
+    "holidayName": "Mahatma Gandhi Jayanti",
+    "holidayDate": "2026-10-02",
+    "description": "Birth anniversary of Mahatma Gandhi."
+  },
+  {
+    "holidayId": 4,
+    "holidayName": "Diwali (Festival of Lights)",
+    "holidayDate": "2026-11-08",
+    "description": "Traditional Hindu festival celebrating the victory of light over darkness."
+  },
+  {
+    "holidayId": 5,
+    "holidayName": "Christmas Day",
+    "holidayDate": "2026-12-25",
+    "description": "Annual festival celebrating the birth of Jesus Christ."
+  }
+]

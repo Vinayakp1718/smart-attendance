@@ -1,0 +1,15 @@
+# Build directories
+bin/
+obj/
+
+# Visual Studio / VS Code configurations
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Secrets and environment files
+appsettings.Development.json
+*.env
